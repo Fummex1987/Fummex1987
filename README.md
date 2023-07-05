@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Fummex1987
-- 👀 I’m interested in coding and design
-- 🌱 I’m currently learning at ALX SE
-- 💞️ I’m looking to collaborate on Git project
-- 📫 You can reach me through slack @fummex1992
+
